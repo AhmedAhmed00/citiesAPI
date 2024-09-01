@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "id": "2227",
+      "cityName": "l'Alcora",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-07T05:09:05.970Z",
+      "notes": "sdfafd",
+      "position": {
+        "lat": "40.10340028984363",
+        "lng": "-0.1927605331372462"
+      }
+    }
+  ]
+}
